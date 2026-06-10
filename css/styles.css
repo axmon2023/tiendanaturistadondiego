@@ -4032,8 +4032,8 @@ fieldset:disabled .btn {
 .float-wa {
   position: fixed;
 
-  bottom: 70px;
-  right: 40px;
+ top: 100px;
+ left: 40px;
   
   color: #1fee6b;
   border-radius: 50px;
